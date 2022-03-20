@@ -1,7 +1,7 @@
 # aumento_salario
 Projeto Aumento Salário
 
-Projeto básico em Java.
+Algoritimo básico em Java.
 
 Baseado na regra porcentagem (salario / 100) * percentual)<br />
 
